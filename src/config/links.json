@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mopidy",
+        "description": "Gérez la musique sur la sono !",
+        "url": "http://hal2.local:6680"
+    },
+    {
+        "name": "UrDownloader",
+        "description": "Téléchargez des musiques pour mopidy avec un lien youtube ou spotify",
+        "url": "http://hal2.local:3000"
+    },
+    {
+        "name": "UrTTS",
+        "description": "Faites parler Hal2 !",
+        "url": "http://hal2.local:6942"
+    }
+]
